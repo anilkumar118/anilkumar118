@@ -25,6 +25,26 @@
 - Digital Forensics & Incident Response (DFIR)
 - Cloud & Network Security
 
+## 💻 Tech Stack
+
+<p align="center">
+
+Python • C/C++ • Java
+
+Linux • Windows
+
+Splunk • Wireshark • Nmap • Nessus
+
+Metasploit • Burp Suite • Maltego
+
+Shodan • theHarvester • Power BI
+
+MySQL • MongoDB
+
+Git • GitHub
+
+</p>
+
 🚀 I believe in **Continuous Learning, Building Practical Projects, and Contributing to the Cyber Security Community.**
 
 ⚡ **Always Learning • Always Building • Always Securing**
