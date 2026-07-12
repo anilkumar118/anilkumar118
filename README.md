@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there 👋, I'm Nenavath Anil Kumar
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Cyber+Security+Researcher;SOC+Analyst;Threat+Intelligence;DFIR+Enthusiast;Offensive+Security+Learner;M.Tech+AI+%26+Data+Science" />
+</p>
+
 
 <!--
 **anilkumar118/anilkumar118** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
