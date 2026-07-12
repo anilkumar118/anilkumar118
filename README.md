@@ -9,13 +9,11 @@
 
 ## 🚀 About Me
 
- I'm currently pursuing my **Master of Technology (M.Tech)** in **Artificial Intelligence & Data Science** with a specialization in **Cyber Security** at **National Forensic Sciences University (NFSU), Gandhinagar, India**.
+I'm currently pursuing my **Master of Technology (M.Tech)** in **Artificial Intelligence & Data Science** with a specialization in Cyber Security at National Forensic Sciences University (NFSU), Gandhinagar, India.
 
- Passionate about Cyber Security, Threat Intelligence, SOC Operations, Digital Forensics & Incident Response (DFIR), Malware Analysis, and Offensive Security**.
+Passionate about Cyber Security, Threat Intelligence, SOC Operations, Digital Forensics & Incident Response (DFIR), Malware Analysis, and Offensive Security.
 
-💡 I enjoy solving real-world security challenges through **OSINT, Threat Hunting, Security Automation, Malware Analysis, Vulnerability Assessment, and AI-driven Security Solutions**.
-
-💻 Experienced with **Python, Linux, Splunk, Wireshark, Nmap, Nessus, Metasploit, Maltego, Shodan, theHarvester, Power BI, SQL, Git, and GitHub**.
+I enjoy solving real-world security challenges through OSINT, Threat Hunting, Security Automation, Malware Analysis, Vulnerability Assessment, and AI-driven Security Solutions.
 
 🌱 Currently exploring:
 - AI for Cyber Security
@@ -63,6 +61,37 @@
 
 </p>
 
+## 💼 Professional Experience
+
+### 🛡️ Cyber Security Analyst Intern
+**E-Gaming Federation (EGF)** | Jan 2025 – Jul 2025
+
+- 🔍 Conducted OSINT investigations on illegal offshore betting and gambling platforms.
+- 🌐 Performed domain and infrastructure analysis using **WHOIS, Shodan, SSL Checker, and Maltego**.
+- 📊 Analyzed data from **60+ gaming platforms**, including transactions, UPI IDs, bank accounts, and cryptocurrency flows.
+- 📈 Built risk assessment frameworks and Excel dashboards for threat tracking.
+- 🤝 Collaborated with agencies including **I4C, DGGI, Income Tax, and Revenue Departments**.
+
+---
+
+### 🛡️ Junior Cyber Security Engineer & SOC Level-1 Intern
+**SOEBIT Cybersecurity, Netherlands (Remote)** | May 2024 – Jul 2024
+
+- 🚨 Monitored security alerts and supported Security Operations Center (SOC) activities.
+- 🔎 Performed vulnerability assessments and assisted in incident response.
+- 📋 Contributed to security policy development and OSINT-based security research.
+- 📉 Improved incident detection accuracy and reduced response time through continuous monitoring.
+
+---
+
+### 🔐 Cyber Security Intern
+**Navodita Infotech, Pune** | Feb 2024 – Mar 2024
+
+- 🛡️ Assisted in firewall configuration and network security assessments.
+- 🔍 Performed vulnerability assessments using **Nessus, Nmap, and Metasploit**.
+- 📑 Contributed to developing an Incident Response Plan.
+- ⚙️ Helped identify and reduce network security vulnerabilities.
+  
 🚀 I believe in **Continuous Learning, Building Practical Projects, and Contributing to the Cyber Security Community.**
 
 ⚡ **Always Learning • Always Building • Always Securing**
