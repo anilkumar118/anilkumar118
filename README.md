@@ -56,7 +56,7 @@ A detailed guide on building an effective Incident Response Plan (IRP), covering
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
-  <a href="https://www.linkedin.com/in/anil-kumar-n-316692233/" target="_blank">
+  <a href="https://www.linkedin.com/in/anilkumar0614/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
