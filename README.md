@@ -7,7 +7,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I'm currently pursuing my **Master of Technology (M.Tech)** in **Artificial Intelligence & Data Science** with a specialization in Cyber Security at National Forensic Sciences University (NFSU), Gandhinagar, India.
 
@@ -15,7 +15,7 @@ Passionate about Cyber Security, Threat Intelligence, SOC Operations, Digital Fo
 
 I enjoy solving real-world security challenges through OSINT, Threat Hunting, Security Automation, Malware Analysis, Vulnerability Assessment, and AI-driven Security Solutions.
 
-🌱 Currently exploring:
+ Currently exploring:
 - AI for Cyber Security
 - Malware Analysis & Reverse Engineering
 - Threat Intelligence
@@ -25,7 +25,7 @@ I enjoy solving real-world security challenges through OSINT, Threat Hunting, Se
 
 </p>
 
-## 💻 Languages and Tools
+##  Languages and Tools
 
 <p align="left">
 
@@ -86,9 +86,9 @@ I enjoy solving real-world security challenges through OSINT, Threat Hunting, Se
   
 </p>
   
-🚀 I believe in **Continuous Learning, Building Practical Projects, and Contributing to the Cyber Security Community.**
+I believe in **Continuous Learning, Building Practical Projects, and Contributing to the Cyber Security Community.**
 
-⚡ **Always Learning • Always Building • Always Securing**
+ **Always Learning • Always Building • Always Securing**
 ```
 
 This version is more professional, ATS-friendly, and recruiter-focused while keeping the same style as your original.
