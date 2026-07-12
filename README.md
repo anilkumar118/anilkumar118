@@ -27,16 +27,15 @@ I enjoy solving real-world security challenges through OSINT, Threat Hunting, Se
 
 ##  Blog posts
 
-📚 I enjoy writing about **Cyber Security, Artificial Intelligence, Incident Response, and Emerging Technologies**.
 
-### 🤖 AI Education Main
+###  AI Education Main
 Explores the impact of Artificial Intelligence on education, adaptive learning, and the future of digital classrooms.
 
 🔗 https://www.linkedin.com/pulse/ai-education-main-anil-kumar-nenavath-o0zaf/
 
 ---
 
-### 🛡️ Building Resilience: A Comprehensive Incident Response Plan for Modern Cybersecurity Challenges
+### Building Resilience: A Comprehensive Incident Response Plan for Modern Cybersecurity Challenges
 A detailed guide on building an effective Incident Response Plan (IRP), covering preparation, detection, containment, eradication, recovery, and lessons learned for modern cyber threats.
 
 🔗 https://www.linkedin.com/pulse/building-resilience-comprehensive-incident-response-plan-nenavath-84z8f/
