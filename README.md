@@ -25,9 +25,8 @@
 - Digital Forensics & Incident Response (DFIR)
 - Cloud & Network Security
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,html,css,linux,mysql,mongodb,git,github,docker,flask&perline=7" />
-</p>## 💻 Languages and Tools
+</p>
+## 💻 Languages and Tools
 
 <p align="left">
 
