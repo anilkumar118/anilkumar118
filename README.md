@@ -25,65 +25,70 @@
 - Digital Forensics & Incident Response (DFIR)
 - Cloud & Network Security
 
-## 💻 Languages and Tools
+## 💻 Languages & Tools
 
 <p align="left">
+<a href="https://www.python.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=python" width="48" height="48"/><br>Python
+</a>
 
-<!-- Programming Languages -->
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<a href="https://isocpp.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=cpp" width="48" height="48"/><br>C++
+</a>
 
-<br>
+<a href="https://www.java.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=java" width="48" height="48"/><br>Java
+</a>
 
-<!-- Web -->
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+<img src="https://skillicons.dev/icons?i=javascript" width="48" height="48"/><br>JavaScript
+</a>
 
-<br>
+<a href="https://www.linux.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linux" width="48" height="48"/><br>Linux
+</a>
 
-<!-- Operating Systems -->
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48"/><br>Git
+</a>
 
-<br>
+<a href="https://github.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" width="48" height="48"/><br>GitHub
+</a>
 
-<!-- Databases -->
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<a href="https://www.mysql.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48"/><br>MySQL
+</a>
 
-<br>
+<a href="https://www.mongodb.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48"/><br>MongoDB
+</a>
 
-<!-- Cyber Security -->
-<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Nessus-00C176?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Maltego-222222?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/theHarvester-444444?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Shodan-FF0000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/IDA_Pro-6A1B9A?style=for-the-badge"/>
+<a href="https://www.docker.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=docker" width="48" height="48"/><br>Docker
+</a>
 
-<br>
-
-<!-- Data Science -->
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Orange-FF7900?style=for-the-badge"/>
-
-<br>
-
-<!-- Version Control -->
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
+<a href="https://flask.palletsprojects.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=flask" width="48" height="48"/><br>Flask
+</a>
 </p>
+
+## 🛡️ Cybersecurity Tools
+
+| Tool | Description |
+|------|-------------|
+| 🛡️ Splunk | SIEM & Log Analysis |
+| 🌐 Wireshark | Network Packet Analysis |
+| 🔍 Nmap | Network Scanning |
+| 💥 Metasploit | Penetration Testing |
+| 🔎 Maltego | OSINT & Link Analysis |
+| 🌍 theHarvester | OSINT Enumeration |
+| 📡 Shodan | Internet Asset Search |
+| 🐞 Burp Suite | Web Application Security |
+| 🧠 IDA Pro | Reverse Engineering |
+| 📊 Power BI | Data Visualization |
+| 📓 Jupyter | Data Analysis |
+| 📈 MATLAB | Machine Learning |
 
 🚀 I believe in **Continuous Learning, Building Practical Projects, and Contributing to the Cyber Security Community.**
 
