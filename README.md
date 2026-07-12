@@ -25,7 +25,7 @@ I enjoy solving real-world security challenges through OSINT, Threat Hunting, Se
 
 </p>
 
-## 📝 Publications & Blogs
+##  Blog posts
 
 📚 I enjoy writing about **Cyber Security, Artificial Intelligence, Incident Response, and Emerging Technologies**.
 
