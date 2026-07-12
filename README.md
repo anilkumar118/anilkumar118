@@ -115,6 +115,5 @@ A detailed guide on building an effective Incident Response Plan (IRP), covering
 I believe in **Continuous Learning, Building Practical Projects, and Contributing to the Cyber Security Community.**
 
  **Always Learning • Always Building • Always Securing**
-```
 
-This version is more professional, ATS-friendly, and recruiter-focused while keeping the same style as your original.
+
