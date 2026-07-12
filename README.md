@@ -25,6 +25,48 @@ I enjoy solving real-world security challenges through OSINT, Threat Hunting, Se
 
 </p>
 
+## 📝 Publications & Blogs
+
+📚 I enjoy writing about **Cyber Security, Artificial Intelligence, Incident Response, and Emerging Technologies**.
+
+### 🤖 AI Education Main
+Explores the impact of Artificial Intelligence on education, adaptive learning, and the future of digital classrooms.
+
+🔗 https://www.linkedin.com/pulse/ai-education-main-anil-kumar-nenavath-o0zaf/
+
+---
+
+### 🛡️ Building Resilience: A Comprehensive Incident Response Plan for Modern Cybersecurity Challenges
+A detailed guide on building an effective Incident Response Plan (IRP), covering preparation, detection, containment, eradication, recovery, and lessons learned for modern cyber threats.
+
+🔗 https://www.linkedin.com/pulse/building-resilience-comprehensive-incident-response-plan-nenavath-84z8f/
+
+
+## 🌐 Connect with Me
+
+<p align="left">
+  <a href="mailto:nenavathanilkumar8@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/anil-kumar-n-316692233/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://personal-portfolio-nine-umber-56.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+
+  <a href="https://x.com/NenavathAnilKu8" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  
+</p>
+
 ##  Languages and Tools
 
 <p align="left">
@@ -61,30 +103,7 @@ I enjoy solving real-world security challenges through OSINT, Threat Hunting, Se
 
 </p>
 
-## 🌐 Connect with Me
 
-<p align="left">
-  <a href="mailto:nenavathanilkumar8@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/anil-kumar-n-316692233/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-
-  <a href="https://personal-portfolio-nine-umber-56.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-
-  <a href="https://x.com/NenavathAnilKu8" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  
-</p>
   
 I believe in **Continuous Learning, Building Practical Projects, and Contributing to the Cyber Security Community.**
 
