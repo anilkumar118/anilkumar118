@@ -25,23 +25,63 @@
 - Digital Forensics & Incident Response (DFIR)
 - Cloud & Network Security
 
-## 💻 Tech Stack
+## 💻 Languages and Tools
 
-<p align="center">
+<p align="left">
 
-Python • C/C++ • Java
+<!-- Programming Languages -->
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
-Linux • Windows
+<br>
 
-Splunk • Wireshark • Nmap • Nessus
+<!-- Web -->
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-Metasploit • Burp Suite • Maltego
+<br>
 
-Shodan • theHarvester • Power BI
+<!-- Operating Systems -->
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 
-MySQL • MongoDB
+<br>
 
-Git • GitHub
+<!-- Databases -->
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+<br>
+
+<!-- Cyber Security -->
+<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Nessus-00C176?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Maltego-222222?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/theHarvester-444444?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Shodan-FF0000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/IDA_Pro-6A1B9A?style=for-the-badge"/>
+
+<br>
+
+<!-- Data Science -->
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Orange-FF7900?style=for-the-badge"/>
+
+<br>
+
+<!-- Version Control -->
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
 </p>
 
