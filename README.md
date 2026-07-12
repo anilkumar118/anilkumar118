@@ -11,8 +11,6 @@
   <img src="https://img.shields.io/github/followers/anilkumar118?label=Follow&style=social" alt="GitHub Followers"/>
 </a>
 
-<br><br>
-
 <img src="https://komarev.com/ghpvc/?username=anilkumar118&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile Views"/>
 
 </p>
