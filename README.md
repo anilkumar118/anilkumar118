@@ -5,7 +5,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Cyber+Security+Researcher+%26+Enthusiast;SOC+Analyst;Threat+Intelligence;DFIR+Enthusiast;Offensive+Security+Learner" alt="Typing SVG" />
 </p>
 
----
+<p align="left">
+
+<a href="https://github.com/anilkumar118">
+<img src="https://img.shields.io/github/followers/anilkumar118?label=Follow&style=social"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=anilkumar118&label=Profile%20Views&color=brightgreen&style=flat"/>
+
+</p>
 
 ##  About Me
 
