@@ -61,36 +61,30 @@ I enjoy solving real-world security challenges through OSINT, Threat Hunting, Se
 
 </p>
 
-## 💼 Professional Experience
+## 🌐 Connect with Me
 
-### 🛡️ Cyber Security Analyst Intern
-**E-Gaming Federation (EGF)** | Jan 2025 – Jul 2025
+<p align="left">
+  <a href="mailto:nenavathanilkumar8@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
-- 🔍 Conducted OSINT investigations on illegal offshore betting and gambling platforms.
-- 🌐 Performed domain and infrastructure analysis using **WHOIS, Shodan, SSL Checker, and Maltego**.
-- 📊 Analyzed data from **60+ gaming platforms**, including transactions, UPI IDs, bank accounts, and cryptocurrency flows.
-- 📈 Built risk assessment frameworks and Excel dashboards for threat tracking.
-- 🤝 Collaborated with agencies including **I4C, DGGI, Income Tax, and Revenue Departments**.
+  <a href="https://www.linkedin.com/in/anil-kumar-n-316692233/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
----
+  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 
-### 🛡️ Junior Cyber Security Engineer & SOC Level-1 Intern
-**SOEBIT Cybersecurity, Netherlands (Remote)** | May 2024 – Jul 2024
+  <a href="https://personal-portfolio-nine-umber-56.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 
-- 🚨 Monitored security alerts and supported Security Operations Center (SOC) activities.
-- 🔎 Performed vulnerability assessments and assisted in incident response.
-- 📋 Contributed to security policy development and OSINT-based security research.
-- 📉 Improved incident detection accuracy and reduced response time through continuous monitoring.
-
----
-
-### 🔐 Cyber Security Intern
-**Navodita Infotech, Pune** | Feb 2024 – Mar 2024
-
-- 🛡️ Assisted in firewall configuration and network security assessments.
-- 🔍 Performed vulnerability assessments using **Nessus, Nmap, and Metasploit**.
-- 📑 Contributed to developing an Incident Response Plan.
-- ⚙️ Helped identify and reduce network security vulnerabilities.
+  <a href="https://x.com/NenavathAnilKu8" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  
+</p>
   
 🚀 I believe in **Continuous Learning, Building Practical Projects, and Contributing to the Cyber Security Community.**
 
