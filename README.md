@@ -1,29 +1,33 @@
+
 ## Hi there 👋, I'm Nenavath Anil Kumar
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Cyber+Security+Researcher & Enthusiast;SOC+Analyst;Threat+Intelligence;DFIR+Enthusiast;Offensive+Security+Learner />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Cyber+Security+Researcher+%26+Enthusiast;SOC+Analyst;Threat+Intelligence;DFIR+Enthusiast;Offensive+Security+Learner" alt="Typing SVG" />
 </p>
 
-
+---
 
 ## 🚀 About Me
 
-🎓 I'm a Master's Student in AI & Data Science Specialization in Cyber Security
-National Forensic Sciences University (NFSU)
+🎓 I'm currently pursuing my **Master of Technology (M.Tech)** in **Artificial Intelligence & Data Science** with a specialization in **Cyber Security** at **National Forensic Sciences University (NFSU), Gandhinagar, India**.
 
-Passionate about Cyber Security, Threat Intelligence, SOC Operations, Digital Forensics, and AI-driven Security Solutions.
+🔐 Passionate about **Cyber Security, Threat Intelligence, SOC Operations, Digital Forensics & Incident Response (DFIR), Malware Analysis, and Offensive Security**.
 
-Currently exploring AI for Cyber Security, Malware Analysis, Threat Detection, and Secure Software Development.
+💡 I enjoy solving real-world security challenges through **OSINT, Threat Hunting, Security Automation, Malware Analysis, Vulnerability Assessment, and AI-driven Security Solutions**.
 
-Experienced with Linux, Python, Network Security, OSINT, Reverse Engineering, Automation, and Backend Development.
+💻 Experienced with **Python, Linux, Splunk, Wireshark, Nmap, Nessus, Metasploit, Maltego, Shodan, theHarvester, Power BI, SQL, Git, and GitHub**.
 
-Always learning. Always building. Always securing.
-
-🛡️ Passionate about
-
-- SOC Operations
+🌱 Currently exploring:
+- AI for Cyber Security
+- Malware Analysis & Reverse Engineering
 - Threat Intelligence
-- Malware Analysis
-- Digital Forensics
-- Incident Response
-- Offensive Security
+- Detection Engineering
+- Digital Forensics & Incident Response (DFIR)
+- Cloud & Network Security
+
+🚀 I believe in **Continuous Learning, Building Practical Projects, and Contributing to the Cyber Security Community.**
+
+⚡ **Always Learning • Always Building • Always Securing**
+```
+
+This version is more professional, ATS-friendly, and recruiter-focused while keeping the same style as your original.
